@@ -11,6 +11,8 @@ The project combines education and blockchain technology to promote interactive 
 ## Contract Details
 
 - **Contract Address:** 0x6e40f6E9Df64C05768EA35A37ffD859c1D6468B6
+- ![image](https://github.com/user-attachments/assets/f55de112-5b46-4a70-bce8-f643cdf00707)
+
 
 ---
 
